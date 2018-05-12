@@ -1,0 +1,32 @@
+_repo: The-Revolt-of-the-Star-Men_41027
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41027-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Z. (Raymond Zinke)
+    - Gallun, Raymond Zinke
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Revolt of the Star Men
+url: http://www.gutenberg.org/ebooks/41027
